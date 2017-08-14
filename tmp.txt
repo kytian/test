@@ -1,1 +1,3 @@
 http://support1.geomagic.com/Support/5605/5668/en-US/Article/View/2129/-How-can-I-interact-with-Microsoft-Excel-with-Python/527
+http://blog.csdn.net/qdx411324962/article/details/44270455
+http://biotopiblog.sinaapp.com/2014/06/python%E8%AF%BB%E5%86%99excel%E5%A6%82%E4%BD%95%E4%BF%9D%E7%95%99%E5%8E%9F%E6%9C%89%E6%A0%BC%E5%BC%8F/
